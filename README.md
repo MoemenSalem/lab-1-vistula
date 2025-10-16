@@ -1,1 +1,1 @@
-# lab-1-vistula
+The first project Hello Vistula
